@@ -1,0 +1,17 @@
+D:\taskone\taskone\ITask\bin\Debug\net5.0\ITaskRepository.deps.json
+D:\taskone\taskone\ITask\bin\Debug\net5.0\ITaskRepository.dll
+D:\taskone\taskone\ITask\bin\Debug\net5.0\ref\ITaskRepository.dll
+D:\taskone\taskone\ITask\bin\Debug\net5.0\ITaskRepository.pdb
+D:\taskone\taskone\ITask\bin\Debug\net5.0\DtoTask.dll
+D:\taskone\taskone\ITask\bin\Debug\net5.0\TaskContext.dll
+D:\taskone\taskone\ITask\bin\Debug\net5.0\DtoTask.pdb
+D:\taskone\taskone\ITask\bin\Debug\net5.0\TaskContext.pdb
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.csproj.AssemblyReference.cache
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.AssemblyInfoInputs.cache
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.AssemblyInfo.cs
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.csproj.CoreCompileInputs.cache
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.csproj.CopyComplete
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.dll
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ref\ITaskRepository.dll
+D:\taskone\taskone\ITask\obj\Debug\net5.0\ITaskRepository.pdb

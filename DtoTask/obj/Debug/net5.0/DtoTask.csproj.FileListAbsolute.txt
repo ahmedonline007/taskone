@@ -1,0 +1,12 @@
+D:\taskone\taskone\DtoTask\bin\Debug\net5.0\DtoTask.deps.json
+D:\taskone\taskone\DtoTask\bin\Debug\net5.0\DtoTask.dll
+D:\taskone\taskone\DtoTask\bin\Debug\net5.0\ref\DtoTask.dll
+D:\taskone\taskone\DtoTask\bin\Debug\net5.0\DtoTask.pdb
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.AssemblyInfoInputs.cache
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.AssemblyInfo.cs
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.csproj.CoreCompileInputs.cache
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.dll
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\ref\DtoTask.dll
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.pdb
+D:\taskone\taskone\DtoTask\obj\Debug\net5.0\DtoTask.csproj.AssemblyReference.cache

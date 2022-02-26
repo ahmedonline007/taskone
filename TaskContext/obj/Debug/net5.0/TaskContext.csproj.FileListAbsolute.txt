@@ -1,0 +1,15 @@
+D:\taskone\taskone\TaskContext\bin\Debug\net5.0\TaskContext.deps.json
+D:\taskone\taskone\TaskContext\bin\Debug\net5.0\TaskContext.runtimeconfig.json
+D:\taskone\taskone\TaskContext\bin\Debug\net5.0\TaskContext.runtimeconfig.dev.json
+D:\taskone\taskone\TaskContext\bin\Debug\net5.0\TaskContext.dll
+D:\taskone\taskone\TaskContext\bin\Debug\net5.0\ref\TaskContext.dll
+D:\taskone\taskone\TaskContext\bin\Debug\net5.0\TaskContext.pdb
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.csproj.AssemblyReference.cache
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.AssemblyInfoInputs.cache
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.AssemblyInfo.cs
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.csproj.CoreCompileInputs.cache
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.dll
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\ref\TaskContext.dll
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.pdb
+D:\taskone\taskone\TaskContext\obj\Debug\net5.0\TaskContext.genruntimeconfig.cache
